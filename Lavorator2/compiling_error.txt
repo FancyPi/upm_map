@@ -1,0 +1,4 @@
+E:\Faculta\MAP\Lavorator2\main.cpp: In function 'void list_dir(const char*)':
+E:\Faculta\MAP\Lavorator2\main.cpp:23:22: error: invalid operands of types 'std::__cxx11::string [250]' {aka 'std::__cxx11::basic_string<char> [250]'} and 'char [260]' to binary 'operator>>'
+      current_entries >> entry->d_name;
+      ~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~

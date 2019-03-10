@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1551979269 source:e:\faculta\map\lavorator2\main.cpp
+	<iostream>
+	<fstream>
+
+1551977467 source:e:\faculta\map\lavorator2\src\fileeditor.cpp
+	"FileEditor.h"
+
+1551977912 e:\faculta\map\lavorator2\include\fileeditor.h
+	<string>
+	<fstream>
+
